@@ -11,7 +11,7 @@ I am constantly learning something new and trying to improve my understanding of
 
 Skills: Python / Django / PostgreSQL / REACT / HTML / CSS
 
-- 🌱 I’m currently learning React, GraphQL 
+- 🌱 I’m currently learning React
 - 📫 How to reach me: qazwsxedc19909@gmail.com 
 
 
