@@ -5,13 +5,12 @@ Python/Django Backend Developer.
 Conversational English level.
 Strong knowledge of Django.
 
-I provide easily-to-maintain projects using PEP8, comments, and programming best practices.
+I provide easily-to-maintain projects relying on programming best practices.
 I am constantly learning something new and trying to improve my understanding of already known components.
 
 
-Skills: Python / Django / PostgreSQL / REACT / HTML / CSS
+Skills: Python / Django / PostgreSQL / REACT / HTML / CSS / SQLAlchemy
 
-- 🌱 I’m currently learning React
 - 📫 How to reach me: qazwsxedc19909@gmail.com 
 
 
