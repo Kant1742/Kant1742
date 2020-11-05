@@ -9,7 +9,7 @@ I provide easily-to-maintain projects relying on programming best practices.
 I am constantly learning something new and trying to improve my understanding of already known components.
 
 
-Skills: Python / Django / PostgreSQL / HTML / CSS / SQLAlchemy / React
+Skills: Python / Django / PostgreSQL / HTML / CSS / Django Rest Framework /
 
 - 📫 How to reach me: qazwsxedc19909@gmail.com or https://www.linkedin.com/in/alex-cher/
 - 📰 Portfolio: https://devrootit.com/
