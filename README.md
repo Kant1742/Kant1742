@@ -20,3 +20,4 @@ Skills: Python / Django / PostgreSQL / HTML / CSS / Django Rest Framework /
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kant1742&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Kant1742)  
+ 
