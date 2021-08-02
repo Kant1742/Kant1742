@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alexander
+### Hi there, my name is Alexander
 #### I am Python Backend Developer
 Python/Django Backend Developer.
 
