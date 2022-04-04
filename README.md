@@ -11,7 +11,7 @@ I am constantly learning something new and trying to improve my understanding of
 
 Skills: Python / Django / PostgreSQL / HTML / CSS / Django Rest Framework /
 
-- 📫 How to reach me: qazwsxedc19909@gmail.com or https://www.linkedin.com/in/alex-cher/
+- 📫 How to reach me: https://www.linkedin.com/in/alex-cher/
 <!-- - 📰 Portfolio: https://devrootit.com/
  -->
 
