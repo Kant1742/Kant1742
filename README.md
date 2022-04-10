@@ -1,18 +1,23 @@
 # Ambassador, node-runner.
 
-### English:
+## Links:
+
+#### English:
 - [Podcast](https://link.chtbl.com/jun-en)
 
-### Russian:
+#### Russian:
 - [Podcast and Youtube](https://link.chtbl.com/jun-ru)
+- [Telegram](https://t.me/zhabkaEZ)
 
-[Medium (Ru/En)](https://medium.com/@qazwsxedc19909)
-[Other Activities (Bitcointalk)](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
+#### Other
+- [Medium (Ru/En)](https://medium.com/@qazwsxedc19909)
+- [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 
 
-
+------------------------------
+## Former description.
 ### Hi there, my name is Alexander
-#### I am former Python Backend Developer
+#### I am Python Backend Developer
 Python/Django Backend Developer.
 
 Conversational English level.
