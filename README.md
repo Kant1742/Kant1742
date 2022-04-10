@@ -1,7 +1,5 @@
 # Ambassador, node-runner.
 
-## Links:
-
 #### English:
 - [Podcast](https://link.chtbl.com/jun-en)
 
