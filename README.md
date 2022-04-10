@@ -1,11 +1,13 @@
-### Ambassador, node-runner
+# Ambassador, node-runner.
 
-All links: https://taplink.cc/alexcher
-
-## English:
+### English:
 - [Podcast](https://link.chtbl.com/jun-en)
 
+### Russian:
+- [Podcast and Youtube](https://link.chtbl.com/jun-ru)
 
+[Medium (Ru/En)](https://medium.com/@qazwsxedc19909)
+[Other Activities (Bitcointalk)](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 
 
 
