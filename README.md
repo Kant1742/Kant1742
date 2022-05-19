@@ -14,6 +14,9 @@
 - [Medium](https://medium.com/@zhabkaEZ)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 - [All links](https://taplink.cc/alexcher)
+- ‌Discord ID: 453829360286433295
+
+
 ------------------------------
 ## Former description.
 ### Hi there, my name is Alexander
@@ -33,4 +36,4 @@ Skills: Python / Django / PostgreSQL / HTML / CSS / Django Rest Framework /
 <!-- - 📰 Portfolio: https://devrootit.com/
  -->
 
-[[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-cher/)]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-cher/)
