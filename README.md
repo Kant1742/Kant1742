@@ -11,7 +11,7 @@
 - [Medium (Ru/En)](https://medium.com/@qazwsxedc19909)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 
-
+- [All links](https://taplink.cc/alexcher)
 ------------------------------
 ## Former description.
 ### Hi there, my name is Alexander
