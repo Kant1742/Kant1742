@@ -2,13 +2,16 @@
 
 #### English:
 - [Podcast](https://link.chtbl.com/jun-en)
+- [Additional Telegram Channel (reposts from Twitter)](https://t.me/zhabkaEZ_en)
+- [Medium](https://medium.com/@zhabkaEZ_en). Formely Ru/En, currently only English and Russian moved to another Medium.
 
 #### Russian:
 - [Podcast and Youtube](https://link.chtbl.com/jun-ru)
 - [Telegram](https://t.me/zhabkaEZ)
+- [Additional Youtube Channel](https://www.youtube.com/channel/UCaJb-oM0RtyV9nxJm-rmqWA)
 
 #### Other
-- [Medium (Ru/En)](https://medium.com/@qazwsxedc19909)
+- [Medium](https://medium.com/@zhabkaEZ)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 
 - [All links](https://taplink.cc/alexcher)
