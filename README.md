@@ -14,7 +14,8 @@
 - [Medium](https://medium.com/@zhabkaEZ)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 - [All links](https://taplink.cc/alexcher)
-- ‌Discord ID: 453829360286433295
+- ‌Discord: KANT1742#7406 
+- Discord ID: 453829360286433295
 
 
 ------------------------------
