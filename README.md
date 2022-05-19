@@ -3,7 +3,7 @@
 #### English:
 - [Podcast](https://link.chtbl.com/jun-en)
 - [Additional Telegram Channel (reposts from Twitter)](https://t.me/zhabkaEZ_en)
-- [Medium](https://medium.com/@zhabkaEZ_en). Formely Ru/En, currently only English and Russian moved to another Medium.
+- [Medium](https://medium.com/@zhabkaEZ_en). Formely Ru/En. Currently only English, and Russian moved to another Medium.
 
 #### Russian:
 - [Podcast and Youtube](https://link.chtbl.com/jun-ru)
