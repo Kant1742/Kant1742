@@ -13,7 +13,6 @@
 #### Other
 - [Medium](https://medium.com/@zhabkaEZ)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
-
 - [All links](https://taplink.cc/alexcher)
 ------------------------------
 ## Former description.
