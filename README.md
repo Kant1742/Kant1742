@@ -1,4 +1,4 @@
-# Ambassador, node-runner.
+# Ambassador, node runner.
 
 #### English:
 - [Podcast](https://link.chtbl.com/jun-en)
