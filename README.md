@@ -3,7 +3,6 @@
 #### English:
 - [Podcast](https://link.chtbl.com/jun-en)
 - [Additional Telegram Channel (reposts from Twitter)](https://t.me/zhabkaEZ_en)
-- [Medium](https://medium.com/@zhabkaEZ_en). Formely Ru/En. Currently only English, and Russian moved to another Medium.
 
 #### Russian:
 - [Podcast and Youtube](https://link.chtbl.com/jun-ru)
@@ -12,10 +11,10 @@
 
 #### Other
 - [Medium](https://medium.com/@zhabkaEZ)
+- [Teletype](https://teletype.in/@zhabkaez)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
 - [All links](https://taplink.cc/alexcher)
 - ‌Discord: KANT1742#7406 
-- Discord ID: 453829360286433295
 
 
 ------------------------------
