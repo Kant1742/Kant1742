@@ -4,8 +4,7 @@
 
 #### English:
 - [Podcast and Youtube](https://link.chtbl.com/jun-en)
-- [Telegram (Google Translator)](https://t.me/zhabkaEZ_en)
-- [Additional Telegram Channel (reposts from Twitter)](https://t.me/zhabkaEZ_en)
+- [Twitter](https://twitter.com/DevRootIT)
 
 #### Russian:
 - [Podcast and Youtube](https://link.chtbl.com/jun-ru)
