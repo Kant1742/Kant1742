@@ -15,4 +15,4 @@
 
 #### Other
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1972915;sa=showPosts)
-- ‌Discord: KANT1742#7406 
+- ‌Discord: KANT1742#7406 (main) / KANT1742#6959
